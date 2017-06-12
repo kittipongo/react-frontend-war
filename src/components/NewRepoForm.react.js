@@ -14,4 +14,4 @@ class NewRepoForm extends React.Component {
     }
 }
 
-export default NewRepoForm;
+export default NewRepoForm

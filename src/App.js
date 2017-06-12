@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
-import Dashboard from './pages/Dashboard.react'
-import Header from './components/Header.react'
+import Dashboard from 'pages/Dashboard.react'
+import Header from 'components/Header.react'
 
 class App extends Component {
     render() {
@@ -13,4 +13,4 @@ class App extends Component {
     }
 }
 
-export default App;
+export default App
