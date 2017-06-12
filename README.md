@@ -1,1 +1,1 @@
-ครั้งแรกกับ react ด้วย create-react-app ลองสร้างหน้าเว็บตาม frontend war (BKK)
+ครั้งแรกกับ react ตาม https://www.youtube.com/watch?v=sKN4hsALOVk
